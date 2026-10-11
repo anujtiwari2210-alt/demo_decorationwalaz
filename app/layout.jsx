@@ -1,5 +1,5 @@
 import { Playfair_Display, Plus_Jakarta_Sans } from "next/font/google";
-import IntroProvider from "@/components/Intro";
+import IntroProvider from "@/Components/Intro";
 import constants from "@/data/constants.json";
 import "./globals.css";
 
