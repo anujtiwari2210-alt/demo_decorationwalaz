@@ -1,0 +1,37 @@
+{
+  "brand": {
+    "name": "Decoration Walazz",
+    "monogram": "DW",
+    "location": "Kanpur, UP",
+    "logo": "/images/logo.png"
+  },
+  "seo": {
+    "title": "Decoration Walazz | Luxury Wedding & Event Decorators in Kanpur",
+    "description": "Bespoke wedding mandaps, stage design and royal event scenography across Kanpur & Uttar Pradesh."
+  },
+  "contact": {
+    "phoneDisplay": "+91 888 197 0855",
+    "phoneRaw": "+918881970855",
+    "whatsapp": "918881970855",
+    "email": "hello@decorationwalazz.com",
+    "address": "Civil Lines & Swaroop Nagar, Kanpur, Uttar Pradesh 208001"
+  },
+  "whatsappMessages": {
+    "default": "Hello Decoration Walazz, I want to inquire about decorating an event.",
+    "consult": "Hello Decoration Walazz, I would like to enquire about event decor.",
+    "portfolio": "Hi Decoration Walazz, please share your full wedding decor portfolio catalogue.",
+    "floating": "Hi Decoration Walazz, I am interested in wedding decor services in Kanpur."
+  },
+  "nav": [
+    { "label": "Home", "href": "#home" },
+    { "label": "About", "href": "#about" },
+    { "label": "Services", "href": "#services" },
+    { "label": "Gallery", "href": "#gallery" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "intro": {
+    "enabled": true,
+    "oncePerSession": true,
+    "durationMs": 3400
+  }
+}

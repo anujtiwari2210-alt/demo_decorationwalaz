@@ -1,0 +1,225 @@
+{
+  "intro": {
+    "tagline": "Where every celebration becomes royal"
+  },
+  "hero": {
+    "video": "/videos/hero.mp4",
+    "poster": "/images/hero.jpg",
+    "badge": "Bespoke Event & Wedding Scenography • Kanpur",
+    "titleLine": "We Create Weddings",
+    "titleAccent": "Worth Remembering.",
+    "subtitle": "Beautifully designed celebrations, thoughtfully decorated for your sacred vows and grand celebrations across Kanpur & Uttar Pradesh.",
+    "primaryCta": "Explore Our Work",
+    "secondaryCta": "Quick Consultation on WhatsApp",
+    "highlights": [
+      { "icon": "star", "label": "Grand Mandaps" },
+      { "icon": "flower", "label": "Floral Sculpting" },
+      { "icon": "light", "label": "Ambient Lightscapes" },
+      { "icon": "castle", "label": "Royal Palace Themes" }
+    ]
+  },
+  "about": {
+    "eyebrow": "The Atelier Ethos",
+    "title": "Your Vision.",
+    "accent": "Our Decoration.",
+    "paragraphs": [
+      "At Decoration Walazz, we view every wedding as a sacred cinematic canvas. Based in the heritage heart of Kanpur, our decor studio harmonizes centuries-old Awadhi and Vedic ceremonial aesthetics with the crisp restraint of modern architectural scenography.",
+      "From towering floral mandaps carved in gilded jaalis to ethereal candlelit tunnels and vibrant sunlit courtyards, we orchestrate decor that honors your family's distinct legacy with impeccable precision and regal grace."
+    ],
+    "stats": [
+      { "value": "100% Bespoke", "label": "No Catalog Duplications" },
+      { "value": "Kanpur Atelier", "label": "Pan-Uttar Pradesh Service" }
+    ],
+    "pillars": [
+      {
+        "icon": "flower",
+        "title": "Artisanal Floral Design",
+        "text": "Sourced fresh daily—from Indian marigold and sweet tuberose strings to Dutch roses, carnations, and imported orchids, sculpted with organic mastery."
+      },
+      {
+        "icon": "temple",
+        "title": "Royal Architectural Staging",
+        "text": "Customized palace pavilions, scalloped Mughal arches, carved pillars, and geometric canopies engineered specifically for your venue dimensions."
+      },
+      {
+        "icon": "award",
+        "title": "Seamless Kanpur Execution",
+        "text": "Rigorous production logistics, certified illumination technicians, and punctual completion hours before the first baraati arrives."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Tailored Scenography",
+    "title": "Bespoke Decor Services",
+    "text": "From intimate traditional rituals to grand royal receptions, explore our signature event decor categories.",
+    "items": [
+      {
+        "badge": "Signature Wedding",
+        "title": "Wedding Decoration",
+        "text": "Regal Mandap architecture, grand aisle walkways, varmala floral revolving stages, and consecrated havan kund sanctums.",
+        "image": "/images/hero.jpg",
+        "icon": "temple",
+        "cta": "Inquire For Wedding",
+        "eventType": "wedding"
+      },
+      {
+        "badge": "Ring Ceremony",
+        "title": "Engagement Decoration",
+        "text": "Romantic botanical backdrops, gold foliage hoops, neon love tokens, fairy light waterfalls, and modern cocktail stage sets.",
+        "image": "/images/engagement.jpg",
+        "icon": "gem",
+        "cta": "Inquire For Engagement",
+        "eventType": "engagement"
+      },
+      {
+        "badge": "Festive Rituals",
+        "title": "Haldi & Mehndi",
+        "text": "Vibrant marigold curtains, brass urli flower tubs, boho cane seating, gota-patti hangings, and sunlit courtyard lounge styling.",
+        "image": "/images/haldi.jpg",
+        "icon": "party",
+        "cta": "Inquire For Haldi",
+        "eventType": "haldi_mehndi"
+      },
+      {
+        "badge": "Grand Gala",
+        "title": "Reception Stage Decor",
+        "text": "Monumental floral wall scapes, crystal chandeliers, antique gold arches, regal velvet thrones, and high-impact couple seating.",
+        "image": "/images/reception.jpg",
+        "icon": "curtains",
+        "cta": "Inquire For Reception",
+        "eventType": "reception"
+      },
+      {
+        "badge": "Milestone Soirees",
+        "title": "Birthday & Private Parties",
+        "text": "Bespoke luxury themes, artistic balloon and floral arches, personalized monogram photobooths, and designer dessert backdrops.",
+        "image": "/images/birthday.jpg",
+        "icon": "cake",
+        "cta": "Inquire For Birthday",
+        "eventType": "birthday"
+      },
+      {
+        "badge": "Bespoke Concepts",
+        "title": "Custom Event Scenography",
+        "text": "Corporate gala evenings, anniversary feasts, cocktail nights, and experiential monumental entrances crafted with custom lighting.",
+        "image": "/images/custom.jpg",
+        "icon": "architecture",
+        "cta": "Inquire For Custom Decor",
+        "eventType": "custom"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "The Portfolio",
+    "title": "Moments Transformed Into Art",
+    "text": "A curated look into real celebrations decorated by our Kanpur design studio.",
+    "filters": ["All Work", "Royal Mandap", "Reception Stage", "Haldi & Mehndi", "Entrance Walkways"],
+    "cta": "Request Full Photo Lookbook on WhatsApp",
+    "items": [
+      {
+        "category": "Royal Mandap",
+        "size": "large",
+        "label": "Signature Wedding • Kanpur Heritage Venue",
+        "title": "Imperial Palace Mandapam",
+        "text": "Handcrafted dome silhouette flanked by cascades of white lilies, English roses, and warm candle cluster risers.",
+        "image": "/images/hero.jpg"
+      },
+      {
+        "category": "Haldi & Mehndi",
+        "size": "medium",
+        "label": "Haldi Celebration",
+        "title": "Sunlit Marigold Courtyard",
+        "text": "Lush yellow marigold wall, handwoven cushions, and traditional hammered brass urlis.",
+        "image": "/images/haldi.jpg"
+      },
+      {
+        "category": "Reception Stage",
+        "size": "medium",
+        "label": "Gala Reception",
+        "title": "Arch of Orchids & Crystal",
+        "text": "Baroque gilded framework draped with dense garden flora and warm vintage chandelier accents.",
+        "image": "/images/reception.jpg"
+      },
+      {
+        "category": "Entrance Walkways",
+        "size": "large",
+        "label": "Grand Entrance",
+        "title": "Luminous Tuberose Canopy Walk",
+        "text": "Over 2,000 fragrant rajnigandha strings framing a crimson carpet lined with carved brass lanterns.",
+        "image": "/images/custom.jpg"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Uncompromising Precision",
+    "title": "How We Bring Your Dream Event to Life",
+    "text": "Our three-stage curation process guarantees peace of mind and pristine celebration scenery.",
+    "steps": [
+      {
+        "icon": "forum",
+        "title": "Share Your Vision",
+        "text": "We meet at your convenience or conduct a venue walkthrough across Kanpur (Civil Lines, Cantonment, Swaroop Nagar, or resort lawns) to understand your family rituals, guest flow, and dream color palette.",
+        "phase": "Phase: Consultation & Scoping"
+      },
+      {
+        "icon": "palette",
+        "title": "Choose Your Design",
+        "text": "Receive personalized moodboards, architectural 2D/3D layout elevations, floral stem selections, and transparent itemized estimates with no hidden last-minute surprises.",
+        "phase": "Phase: Custom Curation"
+      },
+      {
+        "icon": "party",
+        "title": "Celebrate Beautifully",
+        "text": "Our master floral artisans and staging crew complete setup hours ahead of time. Ambient lights are balanced, carpets steamed, and fresh blossoms misted to perfection.",
+        "phase": "Phase: Flawless Execution"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Reserve Your Date",
+    "title": "Let's Plan Something Extraordinary",
+    "text": "Wedding seasons book months ahead in Kanpur. We undertake limited bespoke commissions per weekend to guarantee our direct artisan supervision at every venue.",
+    "whatsappCard": {
+      "title": "Prefer an Instant Response?",
+      "text": "Chat directly with our lead decorator on WhatsApp for quick rate estimates and date availability.",
+      "cta": "Chat on WhatsApp Directly"
+    },
+    "badges": [
+      { "icon": "pin", "text": "Civil Lines & Swaroop Nagar, Kanpur, Uttar Pradesh" },
+      { "icon": "verified", "text": "Serving Kanpur, Lucknow, Unnao, Prayagraj & Pan-UP" },
+      { "icon": "clock", "text": "Timely site inspections • Transparent pricing guaranteed" }
+    ],
+    "form": {
+      "title": "Share Event Details",
+      "text": "Fill out this quick enquiry form and our team will get in touch within 2 to 4 hours.",
+      "submit": "Send Booking Enquiry",
+      "note": "No spam • Fast Kanpur callback",
+      "success": "Thank you! Your enquiry is ready on WhatsApp. Our Kanpur design team will connect with you promptly.",
+      "eventTypes": [
+        { "value": "wedding", "label": "Wedding (Mandap & Stage)" },
+        { "value": "engagement", "label": "Engagement Ceremony" },
+        { "value": "haldi_mehndi", "label": "Haldi & Mehndi Ritual" },
+        { "value": "reception", "label": "Reception Gala" },
+        { "value": "birthday", "label": "Birthday & Milestone Party" },
+        { "value": "custom", "label": "Custom Theme Decor" }
+      ],
+      "budgets": [
+        { "value": "intimate", "label": "Standard Luxury (Intimate Celebrations)" },
+        { "value": "premium", "label": "Royal Premium (Full Wedding & Mandap)" },
+        { "value": "imperial", "label": "Imperial Grandeur (Multi-day Destination/Palace)" },
+        { "value": "custom", "label": "Tailored Custom Budget" }
+      ]
+    }
+  },
+  "footer": {
+    "about": "Atelier of bespoke wedding stage architecture, royal mandap curation, and celebratory scenography crafted with regal Indian artistry and contemporary poise in Uttar Pradesh.",
+    "badge": "Signature Kanpur Atelier",
+    "categoriesTitle": "Event Categories",
+    "categories": ["Royal Mandapam", "Varmala Concepts", "Sangeet & Cocktail", "Floral Scenography", "Haldi & Mehendi"],
+    "navTitle": "Navigation",
+    "coverageTitle": "Kanpur Atelier & Coverage",
+    "coverage": "Regional Coverage: Kanpur, Lucknow, Varanasi, Prayagraj, Agra, & Destination Mandaps across UP.",
+    "whatsappCta": "Direct WhatsApp Concierge",
+    "tagline": "Luxury Weddings • Royal Scenography"
+  }
+}
