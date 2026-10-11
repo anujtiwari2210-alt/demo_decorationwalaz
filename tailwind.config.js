@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./app/**/*.{js,jsx}", "./components/**/*.{js,jsx}"],
+  content: ["./app/**/*.{js,jsx}", "./Components/**/*.{js,jsx}"],
   theme: {
     extend: {
       // Royal Editorial palette (DESIGN.md)
